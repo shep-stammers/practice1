@@ -55,9 +55,9 @@ header a {
     margin-bottom: 1em;
 }
 
-.active {
+/*.active {
     border-bottom: 1px solid #3a3a3a;
-}
+}*/
 
 /* Navbar styles with dropdown toggle */
 nav {
@@ -125,9 +125,11 @@ main {
 }
 
 #reasons h2 {
-    margin-bottom: 20px;
+    padding: 40px;
+    margin-bottom: 30px;
     text-align: center;
     font-size: 280%;
+
 }
 
 #benefits-physical > div,
@@ -137,7 +139,7 @@ main {
 }
 
 #benefits p {
-    padding: 0 20px;
+    padding: 0 100px;
 }
 
 #benefits hr {
